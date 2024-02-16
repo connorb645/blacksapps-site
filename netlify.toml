@@ -4,7 +4,7 @@
   HUGO_ENABLEGITINFO = "true"
 
 [build]
-  publish = "public"
+  publish = "static"
   command = "hugo --gc --minify"
 
 [context.deploy-preview.environment]
