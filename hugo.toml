@@ -1,4 +1,4 @@
-baseURL = 'https://blacksapps.co.uk/'
+baseURL = 'blacksapps.netlify.app'
 languageCode = 'en-gb'
 title = 'Blacks Apps'
 theme = 'hugo-theme-stack'
