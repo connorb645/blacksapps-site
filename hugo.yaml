@@ -1,4 +1,4 @@
-baseURL: 'blacksapps.netlify.app'
+baseURL: 'blacksapps.app'
 languageCode: 'en-gb'
 title: 'Blacks Apps'
 theme: 'terminal'
@@ -64,4 +64,4 @@ params:
 module:
   hugoVersion:
     extended: false
-    min: "0.116.0"
+    min: "0.141.0"
